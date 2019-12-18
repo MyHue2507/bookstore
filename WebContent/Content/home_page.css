@@ -1,0 +1,27 @@
+.name_book {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #004080;
+}
+
+.name_book a h4 {
+    min-height: 40px;
+}
+
+.author_book {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #804040;
+    max-height: 30px;
+}
+
+.price_book {
+	padding-right: 10px;
+    padding-left: 10px;
+    color: #ff00ff;
+}
+
+.image_book {
+	max-height: 300px;
+	min-height: 300px;
+}

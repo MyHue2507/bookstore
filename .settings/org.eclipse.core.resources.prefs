@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/CategoryAdmin.jsp=UTF-8
+encoding//WebContent/Home.jsp=UTF-8
+encoding//src/controller/AuthController.java=UTF-8
+encoding//src/controller/CartController.java=UTF-8
+encoding//src/controller/CategoryController.java=UTF-8
+encoding//src/controller/ConnectionDatabase.java=UTF-8
+encoding//src/controller/HomeController.java=UTF-8
+encoding//src/model/dao/BookDao.java=UTF-8
+encoding//src/model/dao/CartDao.java=UTF-8
+encoding//src/model/dao/CategoryDao.java=UTF-8
+encoding//src/model/dao/CustomerDao.java=UTF-8
+encoding//src/model/dao/UserDao.java=UTF-8
